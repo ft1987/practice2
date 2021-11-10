@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start" :"echo AAAA",
     "build":"sass style.scss:style.css"
   },
   "dependencies": {
